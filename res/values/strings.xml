@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <!-- The name of the application. -->
+    <string name="app_name">Charades</string>
+
+    <!-- Tip text displayed at the bottom of the splash screen. -->
+    <string name="tap_for_options">Tap for options</string>
+
+    <!-- Text displayed on the result summary card when the game ended because time ran out. -->
+    <string name="game_over">Game over</string>
+
+    <!-- Text displayed on the result summary card when the game ended because all phrases were
+         guessed correctly. -->
+    <string name="great_job">Great job!</string>
+
+    <!-- Format string used to display the final score on the result summary card. -->
+    <string name="score_summary">Score: %1$d/%2$d</string>
+
+    <!-- Menu item text to start a new game. -->
+    <string name="new_game">New game</string>
+
+    <!-- Menu item text to display the game instructions. -->
+    <string name="instructions">Instructions</string>
+
+    <!-- Phrases used during the tutorial. -->
+    <string-array name="tutorial_phrases">
+        <item>Tap to score</item>
+        <item>Swipe forward to pass</item>
+        <item>Act out 10 phrases in 1 minute</item>
+    </string-array>
+
+    <!-- Phrases used during actual gameplay. -->
+    <string-array name="phrases">
+        <item>Setting an alarm clock</item>
+        <item>Playing charades</item>
+        <item>Soaking dentures</item>
+        <item>Breaking up with someone</item>
+        <item>Germinating a seed</item>
+        <item>Digging a ditch</item>
+        <item>Talking to a telemarketer</item>
+        <item>Watching the big game</item>
+        <item>Graduating from college</item>
+        <item>Getting a tattoo</item>
+        <item>Filming Bigfoot</item>
+        <item>Grilling a hamburger</item>
+        <item>Winning an eating contest</item>
+        <item>Chopping down a tree</item>
+        <item>Hanggliding</item>
+        <item>Walking a tightrope</item>
+        <item>Feeding a cat</item>
+        <item>Cleaning a litter box</item>
+        <item>Walking a dog</item>
+        <item>Drinking a love potion</item>
+        <item>Smelting precious metals</item>
+        <item>Designing good Glassware</item>
+        <item>Ordering a pizza</item>
+        <item>Scrolling a mouse wheel</item>
+        <item>Making chocolate chip cookies</item>
+        <item>Riding a bicycle</item>
+        <item>Shopping at the mall</item>
+        <item>Sending a text message</item>
+        <item>Looking through a telescope</item>
+        <item>Flinging pizza dough</item>
+    </string-array>
+
+</resources>

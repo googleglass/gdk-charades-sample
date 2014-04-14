@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <!-- The standard margin used on the top, left, and right sides of a card. -->
+    <dimen name="card_margin">40px</dimen>
+
+    <!-- The distance between the bottom of a card and the bottom of a tips-view, adjusted so
+         that the baseline of the text is 40px from the bottom of the card. -->
+    <dimen name="tip_margin_bottom">33px</dimen>
+
+    <!-- The amount of space between the game state circles and the timer display in the status
+         bar. -->
+    <dimen name="timer_margin_left">40px</dimen>
+
+    <!-- The amount of space between the icon and the phrase text on the result screen. -->
+    <dimen name="result_icon_margin_right">20px</dimen>
+
+</resources>
